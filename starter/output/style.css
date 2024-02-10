@@ -1,11 +1,16 @@
 /* Styling for the hero banner */
 .team-heading {
-    background-color: rgb(170, 63, 63);
+    background-color: rgb(42, 126, 56);
     color: white;
 }
 
 /* Styling for the card header */
 .card-header {
-    background-color: rgb(61, 61, 161);
+    background-color: rgb(204, 88, 222);
     color: white;
+}
+
+ /* Added shadow effect */
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
