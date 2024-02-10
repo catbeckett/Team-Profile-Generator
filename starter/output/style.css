@@ -1,11 +1,11 @@
 /* Styling for the hero banner */
 .team-heading {
-    background-color: red;
+    background-color: rgb(170, 63, 63);
     color: white;
 }
 
 /* Styling for the card header */
 .card-header {
-    background-color: blue;
+    background-color: rgb(61, 61, 161);
     color: white;
 }
