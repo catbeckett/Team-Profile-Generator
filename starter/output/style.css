@@ -1,16 +1,45 @@
 /* Styling for the hero banner */
 .team-heading {
-    background-color: rgb(42, 126, 56);
+    background-color: rgb(32, 96, 42);
     color: white;
 }
 
+
+/* Applying Barlow font to all elements */
+body {
+    font-family: 'Barlow', sans-serif;
+}
+
+/* Applying Barlow font to specific elements */
+.card,
+.card-title {
+    font-family: 'Barlow', sans-serif;
+}
+
+
 /* Styling for the card header */
 .card-header {
-    background-color: rgb(204, 88, 222);
-    color: white;
+    background-color: rgb(227, 59, 154);
+    color: whitesmoke;
 }
+
 
  /* Added shadow effect */
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card {
+    border-radius: 20px; /
+}
+
+/* Changed background color of body */
+body {
+    background-color: #484851; /
+}
+
+
+/* Changed background color of card */
+.card {
+    background-color: rgb(227, 59, 154);
 }
