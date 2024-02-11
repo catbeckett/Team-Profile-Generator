@@ -36,4 +36,5 @@ This project is licensed under the MIT license.
 
 ## Screenshot
 
+![Screenshot of My Console](assets/Screenshot_console_interaction.png)
 ![Screenshot of My Application](assets/Screenshot_output_team.png)
