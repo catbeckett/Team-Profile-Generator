@@ -33,3 +33,7 @@ Please feel free to submit a pull request if you would like to contribute to thi
 ## License
 
 This project is licensed under the MIT license.
+
+## Screenshot
+
+![Screenshot of My Application](assets/Screenshot_output_team.png)
