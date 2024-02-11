@@ -28,7 +28,7 @@ Once you have finished adding team members, the application will generate an HTM
 
 ## Contribution
 
-Please feel free to submit a pull request if you would like to contribute to this project.
+Please feel free to submit a pull request if you would like to contribute to this project. Please see link to the GitHub repository here:  https://catbeckett.github.io/Team-Profile-Generator/
 
 ## License
 
